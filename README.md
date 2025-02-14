@@ -1,5 +1,5 @@
 # fairBnB
-
+```
 fairbnb/
 │── app/
 │   ├── controllers/                # Presentation Layer (API)
@@ -34,3 +34,4 @@ fairbnb/
 │── run.py                          # Entry Point
 │── requirements.txt                # Dependencies
 │── README.md
+```
